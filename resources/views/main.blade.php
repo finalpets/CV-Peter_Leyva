@@ -24,7 +24,7 @@
 			<div class="banner-caption">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-10 col-md-offset-1 object-non-visible" data-animation-effect="fadeIn">
+						<div class="col-md-10 col-md-offset-1 object-non-visible" data-animation-effect="zoomIn">
 							<h1 class="text-center">Desarrollador de Paginas <span>Web</span></h1>
 							<p class="lead text-center">Innovando con la tecnologia mas actual, diseños de paginas muy vistosas rapidas y economicas para su negocio.</p>
 						</div>
@@ -76,7 +76,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
-						<h1 class="text-center">10000+ Happy Clients!</h1>
+						<h1 class="text-center">Hablemos de negocios!</h1>
 					</div>
 				</div>
 			</div>

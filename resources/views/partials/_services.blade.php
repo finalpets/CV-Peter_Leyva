@@ -1,5 +1,5 @@
 		<div class="section translucent-bg bg-image-1 blue">
-			<div class="container object-non-visible" data-animation-effect="fadeIn">
+			<div class="container object-non-visible" data-animation-effect="zoomIn">
 				<h1 id="services"  class="text-center title">Servicios</h1>
 				<div class="space"></div>
 				<div class="row">
@@ -57,8 +57,8 @@
 								<i class="fa fa-area-chart"></i>
 							</div>
 							<div class="media-body">
-								<h4 class="media-heading">Service 6</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+								<h4 class="media-heading">Actualizable</h4>
+								<p>Las paginas web desarrolladas, se les puede agregar nuevas caracteristicas en un futuro, sin alterar el funcionamiento actual del servidor.</p>
 							</div>
 						</div>
 						<div class="media">

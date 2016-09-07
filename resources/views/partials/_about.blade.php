@@ -1,4 +1,4 @@
-		<div class="section clearfix object-non-visible" data-animation-effect="fadeIn">
+		<div class="section clearfix " >
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -6,11 +6,11 @@
 						<p class="lead text-center">Egresado de la facultad de ingenieria de la UABC, area terminal Software.</p>
 						<div class="space"></div>
 						<div class="row">
-							<div class="col-md-6">
+							<div class="col-md-6 object-non-visible" data-animation-effect="fadeInLeft">
 								<img src="{{ asset('images/section-image-1.png') }}" alt="">
 								<div class="space"></div>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-6 object-non-visible" data-animation-effect="fadeInRight">
 								<p></p>
 								<p></p>
 								<h1>Habilidades</h1>
@@ -22,6 +22,7 @@
 									<li><i class="fa fa-caret-right pr-10 text-colored"></i> CSS3</li>
 									<li><i class="fa fa-caret-right pr-10 text-colored"></i> JavaScript</li>
 									<li><i class="fa fa-caret-right pr-10 text-colored"></i> Animacion</li>
+									<li><i class="fa fa-caret-right pr-10 text-colored"></i> PhotoShop</li>
 								</ul>
 							</div>
 						</div>
@@ -30,8 +31,8 @@
 						<div class="row">
 							<div class="col-md-6">
 								<p>Empece realizando mis practicas profesionales en la CFE en un sistema hecho en JSP, duro alrrededor de 1 año el cual conclui mi servicio social profesional, una experiencia unica que me sirvio antes de dar el salto al mundo laboral.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo ducimus explicabo quibusdam temporibus deserunt doloremque pariatur ea, animi a. Delectus similique atque eligendi, enim vel reiciendis deleniti neque aliquid, sit?</p>
-								<p>Vitae dolores quam magnam accusantium nam, voluptatibus expedita delectus, dolorum odio magni ut nemo nihil ex earum pariatur molestias velit eveniet, facere autem saepe aut. Ut minima itaque porro facere. Cumque vitae autem, dignissimos molestiae necessitatibus culpa aliquam deleniti soluta sunt voluptatibus tenetur, unde dolorem eligendi doloribus quibusdam facere totam. Possimus atque deserunt numquam aliquam magnam, facilis officiis illo alias ipsa voluptas laborum, praesentium eveniet nobis velit voluptatem odio eligendi, corporis et iste distinctio! Repellendus, id, ad.</p>
+								<p>Actualmente trabajo en Gameloft, desarrollando aplicaciones para videojuegos en android.</p>
+								<p>Soy un muchacho apasionado con lo que hago y muy dedicado, paso casi todo el dia frente a la computadora desarrollando y actualizandome con la tecnologia de punta</p>
 							</div>
 							<div class="col-md-6">
 								<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">

@@ -1,4 +1,4 @@
-		<div class="section translucent-bg bg-image-2 pb-clear">
+{{-- 		<div class="section translucent-bg bg-image-2 pb-clear">
 			<div class="container object-non-visible" data-animation-effect="fadeIn">
 				<h1 id="clients" class="title text-center">Clients</h1>
 				<div class="space"></div>
@@ -90,8 +90,8 @@
 						</div>
 					</div>
 				</div>
-			</div>
-			<!-- section start -->
+			</div> --}}
+			<!-- section start  image of tools to designe the web-->
 			<!-- ================ -->
 			<div class="translucent-bg blue">
 				<div class="container">
@@ -99,12 +99,12 @@
 						<div class="row">
 							<div class="col-xs-2">
 								<div class="list-horizontal-item">
-									<img src="images/client-1.png" alt="client">
+									<img src="images/laravel.png" alt="client">
 								</div>
 							</div>
 							<div class="col-xs-2">
 								<div class="list-horizontal-item">
-									<img src="images/client-2.png" alt="client">
+									<img src="images/bootstrap.png" alt="client">
 								</div>
 							</div>
 							<div class="col-xs-2">

@@ -2,7 +2,7 @@
 			<div class="container">
 				<h1 class="text-center title" id="portfolio">Temas para paginas web</h1>
 				<div class="separator"></div>
-				<p class="lead text-center">Lorem ipsum dolor sit amet laudantium molestias similique.<br> Quisquam incidunt ut laboriosam.</p>
+				<p class="lead text-center">Presionando cualquiera de las imagenes para verlo en VIVO.</p>
 				<br>			
 				<div class="row object-non-visible" data-animation-effect="fadeIn">
 					<div class="col-md-12">
@@ -37,6 +37,7 @@
 										<div class="modal-content">
 											<div class="modal-header">
 												<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+
 												<h4 class="modal-title" id="project-1-label">Project Title</h4>
 											</div>
 											<div class="modal-body">
@@ -52,7 +53,9 @@
 												</div>
 											</div>
 											<div class="modal-footer">
-												<button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
+											
+											<a target="_blank" href="http://proyectosmexicali.com/peterleyva/php_projects/company_page/" class="btn btn-sm btn-default">Live Demo</a>
+											<button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
 											</div>
 										</div>
 									</div>
