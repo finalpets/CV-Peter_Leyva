@@ -12,7 +12,7 @@
 								<br>
 								<br>
 								<ul class="list-icons">
-									<li><i class="fa fa-map-marker pr-10"></i> Avenida Frontera Tijuana</li>
+									<li><i class="fa fa-map-marker pr-10"></i> Mexicali B.C </li>
 									<li><i class="fa fa-phone pr-10"></i> +52 6862571542</li>
 									{{-- <li><i class="fa fa-fax pr-10"></i> +00 1234567891 </li> --}}								
 									<li><i class="fa fa-envelope-o pr-10"></i> peter.leyva.bazan@gmail.com</li>
