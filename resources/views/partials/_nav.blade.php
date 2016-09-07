@@ -9,13 +9,13 @@
 
               <!-- logo -->
               <div class="logo smooth-scroll">
-                <a href="#banner"><img id="logo" src="images/logo.png" alt="Worthy"></a>
+                <a href="#banner"><img id="logo" src="images/profile_img.jpg" alt="Worthy"></a>
               </div>
 
               <!-- name-and-slogan -->
               <div class="site-name-and-slogan smooth-scroll">
-                <div class="site-name"><a href="#banner">Worthy</a></div>
-                <div class="site-slogan">Free Bootstrap Theme by <a target="_blank" href="http://htmlcoder.me">HtmlCoder</a></div>
+                <div class="site-name"><a href="#banner">Peter Leyva</a></div>
+                <div class="site-slogan">Web Developer <!--<a target="_blank" href="http://htmlcoder.me">HtmlCoder</a> --></div>
               </div>
 
             </div>
@@ -50,12 +50,12 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
                       <ul class="nav navbar-nav navbar-right">
-                        <li class="active"><a href="#banner">Home</a></li>
-                        <li><a href="#about">About</a></li>
-                        <li><a href="#services">Services</a></li>
-                        <li><a href="#portfolio">Portfolio</a></li>
-                        <li><a href="#clients">Clients</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <li class="active"><a href="#banner">Inicio</a></li>
+                        <li><a href="#about">Acerca De</a></li>
+                        <li><a href="#services">Servicios</a></li>
+                        <li><a href="#portfolio">Portafolio</a></li>
+                        <li><a href="#clients">Clientes</a></li>
+                        <li><a href="#contact">Contacto</a></li>
                       </ul>
                     </div>
 

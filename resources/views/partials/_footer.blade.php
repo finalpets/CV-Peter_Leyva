@@ -10,10 +10,10 @@
 							<div class="footer-content">
 								<p class="large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel nam magnam natus tempora cumque, aliquam deleniti voluptatibus voluptas. Repellat vel, et itaque commodi iste ab, laudantium voluptas deserunt nobis.</p>
 								<ul class="list-icons">
-									<li><i class="fa fa-map-marker pr-10"></i> One infinity loop, 54100</li>
-									<li><i class="fa fa-phone pr-10"></i> +00 1234567890</li>
+									<li><i class="fa fa-map-marker pr-10"></i> Avenida Frontera Tijuana</li>
+									<li><i class="fa fa-phone pr-10"></i> +52 6862571542</li>
 									<li><i class="fa fa-fax pr-10"></i> +00 1234567891 </li>
-									<li><i class="fa fa-envelope-o pr-10"></i> your@email.com</li>
+									<li><i class="fa fa-envelope-o pr-10"></i> peter.leyva.bazan@gmail.com</li>
 								</ul>
 								<ul class="social-links">
 									<li class="facebook"><a target="_blank" href="https://www.facebook.com/pages/HtmlCoder/714570988650168"><i class="fa fa-facebook"></i></a></li>

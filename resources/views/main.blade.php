@@ -24,9 +24,9 @@
 			<div class="banner-caption">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-8 col-md-offset-2 object-non-visible" data-animation-effect="fadeIn">
-							<h1 class="text-center">We are <span>Worthy</span></h1>
-							<p class="lead text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos debitis provident nulla illum minus enim praesentium repellendus ullam cupiditate reiciendis optio voluptatem, recusandae nobis quis aperiam, sapiente libero ut at.</p>
+						<div class="col-md-10 col-md-offset-1 object-non-visible" data-animation-effect="fadeIn">
+							<h1 class="text-center">Desarrollador de Paginas <span>Web</span></h1>
+							<p class="lead text-center">Innovando con la tecnologia mas actual, diseños de paginas muy vistosas rapidas y economicas para su negocio.</p>
 						</div>
 					</div>
 				</div>
@@ -51,7 +51,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
-						<h1 class="text-center">Let's Work Together!</h1>
+						<h1 class="text-center">Hagamos que su negocio prospere!</h1>
 					</div>
 				</div>
 			</div>

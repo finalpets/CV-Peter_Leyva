@@ -1,5 +1,5 @@
 		<meta charset="utf-8">
-		<title>Worthy | Free Powerful Theme by HtmlCoder</title>
+		<title>CV Peter Leyva | Web Developer</title>
 		<meta name="description" content="Worthy a Bootstrap-based, Responsive HTML5 Template">
 		<meta name="author" content="htmlcoder.me">
 

@@ -1,6 +1,6 @@
 		<div class="section">
 			<div class="container">
-				<h1 class="text-center title" id="portfolio">Portfolio</h1>
+				<h1 class="text-center title" id="portfolio">Temas para paginas web</h1>
 				<div class="separator"></div>
 				<p class="lead text-center">Lorem ipsum dolor sit amet laudantium molestias similique.<br> Quisquam incidunt ut laboriosam.</p>
 				<br>			
@@ -10,7 +10,7 @@
 						<!-- isotope filters start -->
 						<div class="filters text-center">
 							<ul class="nav nav-pills">
-								<li class="active"><a href="#" data-filter="*">All</a></li>
+								<li class="active"><a href="#" data-filter="*">Todas</a></li>
 								<li><a href="#" data-filter=".web-design">Web design</a></li>
 								<li><a href="#" data-filter=".app-development">App development</a></li>
 								<li><a href="#" data-filter=".site-building">Site building</a></li>
