@@ -10,7 +10,9 @@
 | to using a Closure or controller method. Build something great!
 |
 */
+//Route::post('contact', 'PagesController@postContact');
+Route::post('/',['uses' => 'PagesController@postContact','as' => '/']);
+Route::get('/',['uses' => 'PagesController@getTheme','as' => '/']);
 
-Route::get('/', function () {
-    return view('main');
-});
+// Posts CRUD
+Route::resource('themes','ThemesController');
