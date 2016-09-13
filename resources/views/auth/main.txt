@@ -1,0 +1,749 @@
+
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+
+<!--<![endif]-->
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+		
+		<title>CV Peter Leyva | Home Page</title> <!-- CHNANGE TITLE EACH PAGE-->
+		<meta name="description" content="Worthy a Bootstrap-based, Responsive HTML5 Template">
+		<meta name="author" content="htmlcoder.me">
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="images/favicon.ico">
+
+		<!-- Web Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Raleway:700,400,300' rel='stylesheet' type='text/css'>
+
+		<!-- Bootstrap core CSS -->
+		<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="
+sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+
+		<!-- Font Awesome CSS -->
+		<link rel="stylesheet" type="text/css" href="http://localhost:8000/fonts/font-awesome/css/font-awesome.css">
+		<!-- <link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet"> -->
+
+
+		<!-- Plugins -->
+		<!-- <link href="css/animations.css" rel="stylesheet"> -->
+		<link rel="stylesheet" type="text/css" href="http://localhost:8000/css/animations.css">
+
+		<!-- Worthy core CSS file -->
+		<!-- <link href="css/style.css" rel="stylesheet"> -->
+		<link rel="stylesheet" type="text/css" href="http://localhost:8000/css/style.css">
+
+		<!-- Custom css --> 
+		<!-- <link href="css/custom.css" rel="stylesheet"> -->
+		<link rel="stylesheet" type="text/css" href="http://localhost:8000/css/custom.css">	  </head>
+  <body class="no-trans">
+    <!-- scrollToTop -->
+    <!-- ================ -->
+    <div class="scrollToTop"><i class="icon-up-open-big"></i></div>    
+    <header class="header fixed clearfix navbar navbar-fixed-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+
+            <!-- header-left start -->
+            <!-- ================ -->
+            <div class="header-left clearfix">
+
+              <!-- logo -->
+              <div class="logo smooth-scroll">
+                <a href="#banner"><img id="logo" src="images/profile_img.jpg" alt="Worthy"></a>
+              </div>
+
+              <!-- name-and-slogan -->
+              <div class="site-name-and-slogan smooth-scroll">
+                <div class="site-name"><a href="#banner">Peter Leyva</a></div>
+                <div class="site-slogan">Web Developer <!--<a target="_blank" href="http://htmlcoder.me">HtmlCoder</a> --></div>
+              </div>
+
+            </div>
+            <!-- header-left end -->
+
+          </div>
+          <div class="col-md-8">
+
+            <!-- header-right start -->
+            <!-- ================ -->
+            <div class="header-right clearfix">
+
+              <!-- main-navigation start -->
+              <!-- ================ -->
+              <div class="main-navigation animated">
+
+                <!-- navbar start -->
+                <!-- ================ -->
+                <nav class="navbar navbar-default" role="navigation">
+                  <div class="container-fluid">
+
+                    <!-- Toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
+                      <ul class="nav navbar-nav navbar-right">
+                        <li class="active"><a href="#banner">Inicio</a></li>
+                        <li><a href="#about">Acerca De</a></li>
+                        <li><a href="#services">Servicios</a></li>
+                        <li><a href="#portfolio">Portafolio</a></li>
+                        
+                        <li><a href="#contact">Contacto</a></li>
+                      </ul>
+                    </div>
+
+                  </div>
+                </nav>
+                <!-- navbar end -->
+
+              </div>
+              <!-- main-navigation end -->
+
+            </div>
+            <!-- header-right end -->
+
+          </div>
+        </div>
+      </div>
+    </header>  
+
+    
+      
+
+      <!-- Log Out -->
+
+      		<!-- banner start -->
+		<!-- ================ -->
+		<div id="banner" class="banner">
+			<div class="banner-image"></div>
+			<div class="banner-caption">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-10 col-md-offset-1 object-non-visible" data-animation-effect="zoomIn">
+							<h1 class="text-center">Desarrollador de Paginas <span>Web</span></h1>
+							<p class="lead text-center">Innovando con la tecnologia mas actual, diseños de paginas muy vistosas rapidas y economicas para su negocio.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- banner end -->
+
+		<!-- section start About-->
+		<!-- ================ -->
+		<div class="section clearfix " >
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1 id="about" class="title text-center">Acerca de <span>Peter Leyva</span></h1>
+						<p class="lead text-center">Egresado de la facultad de ingenieria de la UABC, area terminal Software.</p>
+						<div class="space"></div>
+						<div class="row">
+							<div class="col-md-6 object-non-visible" data-animation-effect="fadeInLeft">
+								<img src="http://localhost:8000/images/section-image-1.png" alt="">
+								<div class="space"></div>
+							</div>
+							<div class="col-md-6 object-non-visible" data-animation-effect="fadeInRight">
+								<p></p>
+								<p></p>
+								<h1>Habilidades</h1>
+								<ul class="list-unstyled">
+									<li><i class="fa fa-caret-right pr-10 text-colored"></i> Laravel 5.3</li>
+									<li><i class="fa fa-caret-right pr-10 text-colored"></i> PHP</li>
+									<li><i class="fa fa-caret-right pr-10 text-colored"></i> JQuery</li>
+									<li><i class="fa fa-caret-right pr-10 text-colored"></i> Boostrap</li>
+									<li><i class="fa fa-caret-right pr-10 text-colored"></i> CSS3</li>
+									<li><i class="fa fa-caret-right pr-10 text-colored"></i> JavaScript</li>
+									<li><i class="fa fa-caret-right pr-10 text-colored"></i> Animacion</li>
+									<li><i class="fa fa-caret-right pr-10 text-colored"></i> PhotoShop</li>
+								</ul>
+							</div>
+						</div>
+						<div class="space"></div>
+						<h2>Una Breve Historia</h2>
+						<div class="row">
+							<div class="col-md-6">
+								<p>Empece realizando mis practicas profesionales en la CFE en un sistema hecho en JSP, duro alrrededor de 1 año el cual conclui mi servicio social profesional, una experiencia unica que me sirvio antes de dar el salto al mundo laboral.</p>
+								<p>Actualmente trabajo en Gameloft, desarrollando aplicaciones para videojuegos en android.</p>
+								<p>Soy un muchacho apasionado con lo que hago y muy dedicado, paso casi todo el dia frente a la computadora desarrollando y actualizandome con la tecnologia de punta</p>
+							</div>
+							<div class="col-md-6">
+							<h2>Ciclo de vida Pagina Web</h2>
+								<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="headingOne">
+											<h4 class="panel-title">
+												<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+													Analisis ,Planeacion del Sistema #1
+												</a>
+											</h4>
+										</div>
+										<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+											<div class="panel-body">
+												<p>Una vez que el cliente empieza a hablar de sus requerimientos, el equipo inicia la tarea del análisis. Como el sitio web será parte de un sistema, necesita un análisis completo sobre cómo la web o la aplicación web va a ayudar al sistema  y por ende al negocio. El primer asunto importante es el público objetivo. Todo el hardware, software, gente y datos presentes deben ser considerados desde el inicio del análisis. Por ejemplo, si la compañía ABC necesita un sitio web para tener online los detalles de recursos humanos, el equipo de análisis debe utilizar la data existente sobre los empleados de la base de datos actual. El análisis debe ser hecho de la manera que no tome demasiado tiempo pero sea informativo. El equipo debería determinar el costo-beneficio de manera realista pues sale del análisis. Para esto el analista debe consultar con los diseñadores, desarrolladores y testers para determinar un plan preciso.</p>
+
+												<p><strong>Entrada:</strong> Entrevistas con clientes, correos y documentos de apoyo; notas de discusión, chat, conversaciones telefónicas, modelos de sitios/aplicaciones, etc.</p>
+
+												<p><strong>Salida:</strong> 1. Plan de trabajo, 2. Costos involucrados, 3.Requerimientos del equipo, 4. Requerimientos de software y hardware, 5. Documentos de soporte y 6.Aprobación.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="headingTwo">
+											<h4 class="panel-title">
+												<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+													Elaboración de las especificaciones #2
+												</a>
+											</h4>
+										</div>
+										<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+											<div class="panel-body">
+												<p>Las especificaciones preliminares se determinan cubriendo todos y cada uno de los requerimientos. Por ejemplo si el producto es un sitio web, los módulos del sitio que incluyen el diseño en general, la navegación y las partes dinámicas del sitio deben ser incluidas en las especificaciones. Proyectos más grandes requieren niveles mayores de consulta para evaluar los requerimientos técnicos y de negocios adicionales. Luego de revisar y aprobar el documento preliminar, una propuesta escrita es preparada, delineando el alcance del proyecto incluyendo responsabilidades, plazos y costos.</p>
+
+												<p>Entrada: Reportes del equipo de análisis.</p>
+
+												<p>Salida: Especificaciones y requerimientos completos a los individuos y al cliente o su representante.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="headingThree">
+											<h4 class="panel-title">
+												<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+													Diseño y desarrollo #3
+												</a>
+											</h4>
+										</div>
+										<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+											<div class="panel-body">
+												<p>Luego de elaborar las especificaciones, el trabajo en el sitio web se programa al recibir la propuesta firmad, un depósito y cualquier contenido escrito o gráfico que deba ser incluido. En esta etapa la diagramación y navegación son diseñadas como prototipo.</p>
+												<p>Alguno clientes pueden interesarse solo en un prototipo funcional, en ese caso debemos mostrarle la interactividad de la aplicación web o sitio. Pero en la mayoría de los casos el cliente suele interesarse al ver dos o tres diseños con imágenes y navegación.</p>
+												<p>Puede haber muchas sugerencias y cambios del lado del cliente, y cualquier cambio debe ser probado antes de pasar a la siguiente etapa. Las revisiones pueden ser mostradas por la web al cliente para que las evalúe. Los comentarios del cliente, sus alcances y aprobaciones deben ser comunicadas vía e-mail, fax y teléfono.</p>
+												<p>Durante la etapa del diseño, el equipo debe desarrollar planes de prueba y procedimientos para asegurarse de la calidad. Es necesario obtener la aprobación del cliente en diseño y planes de proyecto. En paralelo, el equipo de datos debe sentarse a pensar en los requerimientos y desarrollar la base de datos con toda su estructura y la data de muestra también debe ser preparada.</p>
+												<p><strong>Entrada:</strong> Especificaciones y requerimientos.</p>
+												<p><strong>Salida:</strong> Diseño web con plantillas, imágenes y prototipo.</p>
+
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="headingFour">
+											<h4 class="panel-title">
+												<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+													Creación de contenido #4
+												</a>
+											</h4>
+										</div>
+										<div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+											<div class="panel-body">
+												<p>Esta etapa es más necesaria para los sitios web que para las aplicaciones web. Hay creadores profesionales de contenido online que pueden escribir contenidos relevantes al rubro de la empresa. Los escritores de contenido agregan su texto a las plantillas de diseño. La gramática y ortografía debe ser revisada en esa parte.</p>
+												<p><strong>Entrada:</strong> Plantillas de diseño.</p>
+												<p><strong>Salida:</strong> Sitio con contenido formateado.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="headingFour">
+											<h4 class="panel-title">
+												<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+													Código #5
+												</a>
+											</h4>
+										</div>
+										<div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+											<div class="panel-body">
+												<p>Ahora es turno de los <strong>programadores</strong> para agregar su código sin alterar el diseño. A diferencia del diseño tradicional, el desarrollador debe saber que la interfaz y el código no deben modificar el diseño ni la navegación. Si el sitio es dinámico entonces el código debe usar la plantilla. El desarrollador puede necesitar comunicarse con el diseñador, para poder entender el diseño. El diseñador puede necesitar algunos botones gráficos para lo que necesita al desarollador. Si trabaja un equipo de programadores deben usar un CVS para controlar sus fuentes. El equipo de código debe generar los planes de prueba necesarios así como la documentación técnica. Por ejemplo, usuarios de Java pueden usar JavaDoc para desarollar sus documentos para entender su flujo de código. La documentación para el usuario final también puede ser preparada por el equipo de código, la que puede ser utilizada por un escritor técnico que los entienda y escribir luego manuales de ayuda.</p>
+												<p><strong>Entrada:</strong> El sitio con formularios y las especificaciones.</p>
+												<p><strong>Salida:</strong> Funciones de base de datos controladas por  el sitio, documentos codificados.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="headingFour">
+											<h4 class="panel-title">
+												<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+													Pruebas #6
+												</a>
+											</h4>
+										</div>
+										<div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+											<div class="panel-body">
+												<p>A diferencia del software, las aplicaciones web necesitan muchas pruebas, pues siempre funcionan como sistemas multiusuario con las limitaciones del ancho de banda. Algunas de las pruebas que deben ser hechas son la prueba de integración, de estrés, la prueba de escalabilidad, de carga, resolución y de navegador cruzado. Pruebas manuales y automáticas deben hacerse sin falla. Por ejemplo, es necesario probar la carga rápida de gráficos y calcular su tiempo de carga, pues es muy importante para cualquier sitio web. Hay algunas herramientas de prueba así como servicios online de prueba, que pueden ayudar al equipo a probar sus aplicaciones.</p>
+												<p><strong>Entrada:</strong> El sitio, requerimientos y especificaciones, documentos de apoyo, especificaciones técnicas y documentos técnicos.</p>
+												<p><strong>Salida:</strong> Aplicación/sitio completado, reportes de prueba,  registros de errores, interacción frecuente con desarrolladores y diseñadores.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="headingFour">
+											<h4 class="panel-title">
+												<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+													Promoción #7
+												</a>
+											</h4>
+										</div>
+										<div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
+											<div class="panel-body">
+												<p>Esta etapa solo se aplica para sitios web. La promoción necesita preparación de etiquetas meta, análisis constante y subir la URL a los motores de búsqueda y directorios. La promoción de sitios web normalmente es un proceso constante debido a que los motores de búsqueda cambian constantemente. Subir una URL cada dos meses es lo ideal. Si el cliente lo desea, pueden hacerse subidas pagadas o de pago por click a un costo adicional.</p>
+												<p><strong>Entrada:</strong> Sitio con contenidos, mails del cliente mencionando a la competencia.</p>
+												<p><strong>Salida:</strong> Subida del sitio con las etiquetas meta necesarias.</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="headingFour">
+											<h4 class="panel-title">
+												<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+													Mantenimiento y Actualización #8
+												</a>
+											</h4>
+										</div>
+										<div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
+											<div class="panel-body">
+												<p>Los sitios web necesitan actualizaciones frecuentes para mantenerlos frescos. En ese caso necesitamos hacer análisis de nuevo y los otros pasos del ciclo de vida se repiten. Durante el mantenimiento pueden solucionarse los errores. Una vez que tu sitio web está operativo, promoción constante, mantenimiento técnico, manejo de contenidos y actualización, reportes de actividad y entrenamiento de equipo son necesarios de manera regular dependiendo de la complejidad de tu sitio web y las necesidades de tu organización.</p>
+												<p><strong>Entrada:</strong> Sitio web, contenido, funciones actualizadas, reportes re-análisis.</p>
+												<p><strong>Salida:</strong> Sitio actualizado, documentos de apoyo para reiniciar los pasos del ciclo de vida.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>  
+		<!-- section end -->
+
+		<!-- section start Services -->
+		<div class="section translucent-bg bg-image-1 blue">
+			<div class="container object-non-visible" data-animation-effect="zoomIn">
+				<h1 id="services"  class="text-center title">Servicios</h1>
+				<div class="space"></div>
+				<div class="row">
+					<div class="col-sm-6">
+						<div class="media">
+							<div class="media-body text-right">
+								<h4 class="media-heading">Instalacion de Servidor</h4>
+								<p>Encargado de configurar el servidor VPS (Virtual Private Server) una vez que el producto esta terminado, los costos del servidor y compra de dominio van por parte del cliente.</p>
+							</div>
+							<div class="media-right">
+								<i class="fa fa-cog"></i>
+							</div>
+						</div>
+						<div class="media">
+							<div class="media-body text-right">
+								<h4 class="media-heading">Service 2</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+							</div>
+							<div class="media-right">
+								<i class="fa fa-check"></i>
+							</div>
+						</div>
+						<div class="media">
+							<div class="media-body text-right">
+								<h4 class="media-heading">Service 3</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+							</div>
+							<div class="media-right">
+								<i class="fa fa-desktop"></i>
+							</div>
+						</div>
+						<div class="media">
+							<div class="media-body text-right">
+								<h4 class="media-heading">Comunicacion</h4>
+								<p>Comunicacion constante con el cliente, para llevar una buena retroalimentacion de lo que se pidio y lo que obtiene.</p>
+							</div>
+							<div class="media-right">
+								<i class="fa fa-users"></i>
+							</div>
+						</div>
+					</div>
+					<div class="space visible-xs"></div>
+					<div class="col-sm-6">
+						<div class="media">
+							<div class="media-left">
+								<i class="fa fa-leaf"></i>
+							</div>
+							<div class="media-body">
+								<h4 class="media-heading">Service 5</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+							</div>
+						</div>
+						<div class="media">
+							<div class="media-left">
+								<i class="fa fa-area-chart"></i>
+							</div>
+							<div class="media-body">
+								<h4 class="media-heading">Actualizable</h4>
+								<p>Las paginas web desarrolladas, se les puede agregar nuevas caracteristicas en un futuro, sin alterar el funcionamiento actual del servidor.</p>
+							</div>
+						</div>
+						<div class="media">
+							<div class="media-left">
+								<i class="fa fa-child"></i>
+							</div>
+							<div class="media-body">
+								<h4 class="media-heading">Trabajo Garantizado</h4>
+								<p>Todos los trabajos realizados son garantizados, y entregados a tiempo.</p>
+								<br>
+								<br>
+							</div>
+						</div>
+						<div class="media">
+							<div class="media-left">
+								<i class="fa fa-codepen"></i>
+							</div>
+							<div class="media-body">
+								<h4 class="media-heading">Service 8</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div> 
+		<!-- ================ -->
+
+		<!-- section end -->
+
+		<!-- section start -->
+		<!-- ================ -->
+		<div class="default-bg space blue">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2">
+						<h1 class="text-center">Hagamos que su negocio prospere!</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- section end -->
+
+		<!-- section start Portfolio-->			
+		<!-- ================ -->
+			<div class="section">
+			<div class="container">
+				<h1 class="text-center title" id="portfolio">Temas para paginas web</h1>
+				<div class="separator"></div>
+				<p class="lead text-center">Presionando cualquiera de las imagenes para verlo en VIVO.</p>
+				<br>			
+				<div class="row object-non-visible" data-animation-effect="fadeIn">
+					<div class="col-md-12">
+
+						<!-- isotope filters start -->
+						<div class="filters text-center">
+							<ul class="nav nav-pills">
+								<li class="active"><a href="#" data-filter="*">Todas</a></li>
+								<li><a href="#" data-filter=".web-design">Web design</a></li>
+								<li><a href="#" data-filter=".app-development">App development</a></li>
+								<li><a href="#" data-filter=".site-building">Site building</a></li>
+							</ul>
+						</div>
+						<!-- isotope filters end -->
+
+						<!-- portfolio items start -->
+						<div class="isotope-container row grid-space-20">
+															<div class="col-sm-6 col-md-3 isotope-item web-design">								
+									<div class="image-box">
+										<div class="overlay-container">
+											<img src="http://localhost:8000/images/portfolio-1.jpg" alt="">
+											<a class="overlay" data-toggle="modal" data-target="#project-1">
+												<i class="fa fa-search-plus"></i>
+												<span>web-design</span>											
+											</a>
+										</div>
+										<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-1">CV</a>
+									</div>														
+								</div>
+										<!-- Modal -->
+								<div class="modal fade" id="project-1" tabindex="-1" role="dialog" aria-labelledby="project-1-label" aria-hidden="true">
+									<div class="modal-dialog modal-lg">
+										<div class="modal-content">
+											<div class="modal-header">
+												<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+
+												<h4 class="modal-title" id="project-1-label">CV</h4>
+											</div>
+											<div class="modal-body">
+												<h3>One</h3>
+												<div class="row">
+													<div class="col-md-6">
+														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+													</div>
+													<div class="col-md-6">
+														<img src="http://localhost:8000/images/portfolio-1.jpg" alt="">
+													</div>
+												</div>
+											</div>
+											<div class="modal-footer">
+											
+											<a target="_blank" href="http://proyectosmexicali.com/peterleyva/php_projects/company_page/" class="btn btn-sm btn-default">Live Demo</a>
+											<button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- Modal end -->
+															<div class="col-sm-6 col-md-3 isotope-item app-development">								
+									<div class="image-box">
+										<div class="overlay-container">
+											<img src="http://localhost:8000/images/portfolio-1.jpg" alt="">
+											<a class="overlay" data-toggle="modal" data-target="#project-2">
+												<i class="fa fa-search-plus"></i>
+												<span>app-development</span>											
+											</a>
+										</div>
+										<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-2">WebDesign</a>
+									</div>														
+								</div>
+										<!-- Modal -->
+								<div class="modal fade" id="project-2" tabindex="-1" role="dialog" aria-labelledby="project-2-label" aria-hidden="true">
+									<div class="modal-dialog modal-lg">
+										<div class="modal-content">
+											<div class="modal-header">
+												<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+
+												<h4 class="modal-title" id="project-2-label">WebDesign</h4>
+											</div>
+											<div class="modal-body">
+												<h3>SeconProject</h3>
+												<div class="row">
+													<div class="col-md-6">
+														<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+													</div>
+													<div class="col-md-6">
+														<img src="http://localhost:8000/images/portfolio-1.jpg" alt="">
+													</div>
+												</div>
+											</div>
+											<div class="modal-footer">
+											
+											<a target="_blank" href="http://proyectosmexicali.com/peterleyva/php_projects/company_page/" class="btn btn-sm btn-default">Live Demo</a>
+											<button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!-- Modal end -->
+														
+						</div>
+
+						<!-- portfolio items end -->					
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+ 
+
+		<!-- section end -->
+
+		<!-- section start Clientes-->
+		<!-- ================ -->
+			<!-- section start  image of tools to designe the web-->
+			<!-- ================ -->
+			<div class="translucent-bg blue">
+				<div class="container">
+					<div class="list-horizontal">
+						<div class="row">
+							<div class="col-xs-2">
+								<div class="list-horizontal-item">
+									<img src="images/laravel.png" alt="client">
+								</div>
+							</div>
+							<div class="col-xs-2">
+								<div class="list-horizontal-item">
+									<img src="images/bootstrap.png" alt="client">
+								</div>
+							</div>
+							<div class="col-xs-2">
+								<div class="list-horizontal-item">
+									<img src="images/client-3.png" alt="client">
+								</div>
+							</div>
+							<div class="col-xs-2">
+								<div class="list-horizontal-item">
+									<img src="images/client-4.png" alt="client">
+								</div>
+							</div>
+							<div class="col-xs-2">
+								<div class="list-horizontal-item">
+									<img src="images/client-5.png" alt="client">
+								</div>
+							</div>
+							<div class="col-xs-2">
+								<div class="list-horizontal-item">
+									<img src="images/client-6.png" alt="client">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- section end -->
+		</div>
+		<!-- section end -->
+
+		<!-- section start -->
+		<!-- ================ -->
+		<div class="default-bg space">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2">
+						<h1 class="text-center">Hablemos de negocios!</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<!-- section end -->
+	
+          <!-- footer start -->
+    <!-- ================ -->
+  
+    
+      		
+	<footer id="footer">
+		<!-- .footer start -->
+			<!-- ================ -->
+			<div class="footer section">
+				<div class="container">
+					<h1 class="title text-center" id="contact">Contacto</h1>
+					<div class="space"></div>
+					<div class="row">
+						<div class="col-sm-6">
+							<div class="footer-content">
+								<p class="large">Cualquier duda pongase en contacto conmigo, podemos hacer una cita para ver lo que usted busca y que se le acomode a su necesidad, respondere a la brevedad.</p>
+								<br>
+								<br>
+								<ul class="list-icons">
+									<li><i class="fa fa-map-marker pr-10"></i> Mexicali B.C </li>
+									<li><i class="fa fa-phone pr-10"></i> +52 6862571542</li>
+																	
+									<li><i class="fa fa-envelope-o pr-10"></i> peter.leyva.bazan@gmail.com</li>
+								</ul>
+								<ul class="social-links">
+									<li class="facebook"><a target="_blank" href="https://www.facebook.com/pages/HtmlCoder/714570988650168"><i class="fa fa-facebook"></i></a></li>
+									<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
+									
+								</ul>
+							</div>
+						</div>
+						<div class="col-sm-6">
+							<div class="footer-content">
+								<form role="form" id="footer-form">
+									<div class="form-group has-feedback">
+										<label class="sr-only" for="name2">Name</label>
+										<input type="text" class="form-control" id="name2" placeholder="Name" name="name2" required>
+										<i class="fa fa-user form-control-feedback"></i>
+									</div>
+									<div class="form-group has-feedback">
+										<label class="sr-only" for="email2">Email address</label>
+										<input type="email" class="form-control" id="email2" placeholder="Enter email" name="email2" required>
+										<i class="fa fa-envelope form-control-feedback"></i>
+									</div>
+									<div class="form-group has-feedback">
+										<label class="sr-only" for="message2">Message</label>
+										<textarea class="form-control" rows="8" id="message2" placeholder="Message" name="message2" required></textarea>
+										<i class="fa fa-pencil form-control-feedback"></i>
+									</div>
+									<input type="submit" value="Send" class="btn btn-default">
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- .footer end -->		<!-- .subfooter start -->
+<!-- ================ -->
+<div class="subfooter">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<p class="text-center">Copyright © 2016 by <a target="_blank" href="">Peter Leyva</a>.</p>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- .subfooter end -->
+	
+	</footer>
+      
+      
+    
+
+  
+  
+    
+    <!-- footer end -->
+    <!-- JavaScript files placed at the end of the document so the pages load faster
+		================================================== -->
+		<!-- Jquery and Bootstap core js files -->
+		 <script type="text/javascript" src="http://localhost:8000/plugins/jquery.min.js"></script> 
+		 <script type="text/javascript" src="http://localhost:8000/bootstrap/js/bootstrap.min.js"></script> 
+		
+
+		<!-- Modernizr javascript -->
+		<!-- <script type="text/javascript" src="plugins/modernizr.js"></script> -->
+		<script type="text/javascript" src="http://localhost:8000/plugins/modernizr.js"></script>
+		
+
+		<!-- Isotope javascript -->
+		<!-- <script type="text/javascript" src="plugins/isotope/isotope.pkgd.min.js"></script> -->
+		<script type="text/javascript" src="http://localhost:8000/plugins/isotope/isotope.pkgd.min.js"></script>
+		
+		<!-- Backstretch javascript -->
+		<!--  <script type="text/javascript" src="plugins/jquery.backstretch.min.js"></script> -->
+		<script type="text/javascript" src="http://localhost:8000/plugins/jquery.backstretch.min.js"></script>
+
+		<!-- Appear javascript -->
+		<!-- <script type="text/javascript" src="plugins/jquery.appear.js"></script> -->
+		<script type="text/javascript" src="http://localhost:8000/plugins/jquery.appear.js"></script>
+
+		<!-- Initialization of Plugins -->
+		<!-- <script type="text/javascript" src="js/template.js"></script> -->
+		<script type="text/javascript" src="http://localhost:8000/js/template.js"></script>
+
+		<!-- Custom Scripts -->
+		<!-- <script type="text/javascript" src="js/custom.js"></script> -->
+		<script type="text/javascript" src="http://localhost:8000/js/custom.js"></script>      </body>
+</html>

@@ -1,5 +1,6 @@
 		<meta charset="utf-8">
-		<title>CV Peter Leyva | Web Developer</title>
+		{{-- <title>CV Peter Leyva | Web Developer</title> --}}
+		<title>CV Peter Leyva @yield('title')</title> <!-- CHNANGE TITLE EACH PAGE-->
 		<meta name="description" content="Worthy a Bootstrap-based, Responsive HTML5 Template">
 		<meta name="author" content="htmlcoder.me">
 

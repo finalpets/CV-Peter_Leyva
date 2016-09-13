@@ -16,3 +16,4 @@ Route::get('/',['uses' => 'PagesController@getTheme','as' => '/']);
 
 // Posts CRUD
 Route::resource('themes','ThemesController');
+Auth::routes();

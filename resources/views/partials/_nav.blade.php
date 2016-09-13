@@ -73,3 +73,18 @@
         </div>
       </div>
     </header>
+
+        <!-- banner start -->
+    <!-- ================ -->
+    <div id="banner" class="banner">
+      <div class="banner-image"></div>
+      <div class="banner-caption">
+        <div class="container">
+          <div class="row">
+          @yield('banner')
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- banner end -->
