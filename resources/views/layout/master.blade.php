@@ -4,10 +4,7 @@
     @include('partials._head')
   </head>
   <body class="no-trans">
-    <!-- scrollToTop -->
-    <!-- ================ -->
-    <div class="scrollToTop"><i class="icon-up-open-big"></i></div>    
-    @include('partials._nav')  
+
 
     
       {{-- @include('partials._messages') --}}

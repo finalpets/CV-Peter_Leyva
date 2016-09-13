@@ -9,6 +9,22 @@
 
 (function($){
 	$(document).ready(function(){
+		
+		$('#modal-login').click(function(){
+
+			$.ajax({
+				method: 'POST',
+				url: url,
+				//dataType: 'json',
+				data:{ _token: token, email: $('#email').val(), password: $('#password').val() },
+				success:function(data){	
+				window.location.href = "/";
+				}, error : function(data){
+
+				}
+			},'json');
+		});
+
 	
 		$(".banner-image").backstretch('images/banner.jpg');
 		

@@ -1,12 +1,13 @@
 @extends('layout.master')
 @section('title','| Home Page')
+    <!-- scrollToTop -->
+    <!-- ================ -->
 
-@section('banner')
-            <div class="col-md-10 col-md-offset-1 object-non-visible" data-animation-effect="zoomIn">
-              <h1 class="text-center">Desarrollador de Paginas <span>Web</span></h1>
-              <p class="lead text-center">Innovando con la tecnologia mas actual, diseños de paginas muy vistosas rapidas y economicas para su negocio.</p>
-@endsection
+
+    <div class="scrollToTop"><i class="icon-up-open-big"></i></div>    
+    @include('partials._nav') 
 @section('content')
+ {{-- {{ Auth::check() ? "Logged In" : "Log Out" }} --}}
 		<!-- section start About-->
 		<!-- ================ -->
 		@include('partials._about')  

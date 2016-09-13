@@ -1,11 +1,14 @@
-@extends('main')
+@extends('layout.master')
 
 @section('title', '| Register')
 
 @section('content')
+<div class="container">
 
 	<div class="row">
+
 		<div class="col-md-6 col-md-offset-3">
+		<h1 align="center">Register</h1>
 			{!! Form::open() !!}
 				{{ Form::label('name', "Name:") }}
 				{{ Form::text('name', null ,['class' => 'form-control']) }}
@@ -21,12 +24,15 @@
 
 				{{ Form::submit('Register', ['class' => 'btn btn-primary btn-block form-spacing-top']) }}
 
-			{!! Form::close() !!}
-
-			
-		</div>
-			
-		
+			{!! Form::close() !!}			
+		</div>			
 	</div>
+</div>
+@section('footer')		
+	<footer id="footer">
+		@include('partials._footer')	
+	</footer>
+@endsection
+	
 
 @endsection
