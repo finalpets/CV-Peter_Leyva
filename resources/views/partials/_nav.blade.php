@@ -51,6 +51,8 @@
                         <a href="#" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                         {{ Auth::user()->name }} <span class="caret"></span></a>
                           <ul class="dropdown-menu">
+                          <li><a href="{{ url('/themes/create') }}">Themes</a></li>
+                          <li><a href="{{ route('categories.index') }}">Categories</a></li>
                           <li><a href="{{ url('/logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
           Logout</a></li>
                           </ul>

@@ -8,6 +8,8 @@ use App\Http\Requests;
 
 use App\Theme;
 
+use App\Category;
+
 
 
 class PagesController extends Controller
@@ -16,7 +18,8 @@ class PagesController extends Controller
 
 	public function getTheme(){
 		$themes = Theme::all();
-		return view('main')->with('themes',$themes);
+		$categories = Category::all();
+		return view('main')->with('themes',$themes)->with('categories',$categories);
 	}
    	public function postContact(Request $request){
 

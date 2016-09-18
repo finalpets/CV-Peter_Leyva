@@ -11,9 +11,12 @@
 						<div class="filters text-center">
 							<ul class="nav nav-pills">
 								<li class="active"><a href="#" data-filter="*">Todas</a></li>
-								<li><a href="#" data-filter=".web-design">Web design</a></li>
+								@foreach($categories as $category)
+									<li><a href="#" data-filter=".{{ $category->name }}">{{ $category->name }}</a></li>
+								@endforeach
+								{{-- <li><a href="#" data-filter=".web-design">Web design</a></li>
 								<li><a href="#" data-filter=".app-development">App development</a></li>
-								<li><a href="#" data-filter=".site-building">Site building</a></li>
+								<li><a href="#" data-filter=".site-building">Site building</a></li> --}}
 							</ul>
 						</div>
 						<!-- isotope filters end -->
@@ -24,7 +27,7 @@
 								<div class="{{ 'col-sm-6 col-md-3 isotope-item '.$theme->category->name }}">								
 									<div class="image-box">
 										<div class="overlay-container">
-											<img src="{{ asset('images/portfolio-1.jpg') }}" alt="">
+											<img src="{{ asset('portfolio/'.$theme->image) }}" alt="LIVE DEMO">
 											<a class="overlay" data-toggle="modal" data-target="{{ '#project-'.$theme->id }}">
 												<i class="fa fa-search-plus"></i>
 												<span>{{ $theme->category->name }}</span>											
@@ -49,7 +52,7 @@
 														<p>{{ $theme->body }}</p>
 													</div>
 													<div class="col-md-6">
-														<img src="{{ asset('images/portfolio-1.jpg') }}" alt="">
+														<img src="{{ asset('portfolio/'.$theme->image) }}" alt="">
 													</div>
 												</div>
 											</div>

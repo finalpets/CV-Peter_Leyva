@@ -6,6 +6,11 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 
+use App\Category;
+
+use App\Theme;
+use DB;
+
 class CategoryController extends Controller
 {
     /**
@@ -16,6 +21,8 @@ class CategoryController extends Controller
     public function index()
     {
         //
+        $categories = Category::all();
+        return view('categories.index')->with('categories',$categories);
     }
 
     /**
@@ -37,6 +44,17 @@ class CategoryController extends Controller
     public function store(Request $request)
     {
         //
+
+        $this->validate($request, array(
+            'name' => 'required|alpha_dash|max:255'
+            ));
+
+        $category = new Category;
+        $category->name = $request->name;
+        $category->save();
+
+        return redirect()->route('categories.index');
+
     }
 
     /**
@@ -48,6 +66,8 @@ class CategoryController extends Controller
     public function show($id)
     {
         //
+        $category = Category::find($id);
+        return view('categories.show')->withCategory($category);
     }
 
     /**
@@ -82,5 +102,16 @@ class CategoryController extends Controller
     public function destroy($id)
     {
         //
+        $category = Category::find($id);
+        DB::delete('DELETE FROM themes WHERE category_id = ?',[$category->id]);        
+        $category->delete();
+
+        return redirect()->route('categories.index');
+    }
+     public function delete($id)
+    {
+        $category = Category::find($id);
+
+        return view('categories.delete')->withCategory($category);
     }
 }

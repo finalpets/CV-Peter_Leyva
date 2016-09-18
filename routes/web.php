@@ -18,4 +18,10 @@ Route::get('/',['uses' => 'PagesController@getTheme','as' => '/']);
 Route::resource('themes','ThemesController');
 Auth::routes();
 
+// Categories CRUD(Resource) removing create function
+Route::resource('categories','CategoryController',['except'=> ['create']]);
+
+Route::get('categories/{id}/delete',['uses' => 'CategoryController@delete', 'as' => 'categories.delete']);
+
+
 //Route::post('login', ['uses' => 'Auth\LoginController@login', 'as' => 'login']);
