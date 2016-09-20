@@ -7,7 +7,7 @@
 						<div class="media">
 							<div class="media-body text-right">
 								<h4 class="media-heading">Instalacion de Servidor</h4>
-								<p>Encargado de configurar el servidor VPS (Virtual Private Server) una vez que el producto esta terminado, los costos del servidor y compra de dominio van por parte del cliente.</p>
+								<p>Instalacion y configuracion del servidor VPS (Virtual Private Server) donde se alojara la pagina, los costos del servidor y compra de dominio van por parte del cliente.</p>
 							</div>
 							<div class="media-right">
 								<i class="fa fa-cog"></i>
@@ -15,17 +15,17 @@
 						</div>
 						<div class="media">
 							<div class="media-body text-right">
-								<h4 class="media-heading">Service 2</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+								<h4 class="media-heading">Prueba de errores</h4>
+								<p>Las paginas web son puestas a Test(pruebas) para su correcto funcionamiento, y que el cliente no tenga problemas cuando la pagina este en el servidor.</p>
 							</div>
 							<div class="media-right">
 								<i class="fa fa-check"></i>
 							</div>
-						</div>
+						</div>						
 						<div class="media">
 							<div class="media-body text-right">
-								<h4 class="media-heading">Service 3</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+								<h4 class="media-heading">Avances</h4>
+								<p>Entrega de avances que seran presentados al cliente durante la creacion de la pagina web, para la retroalimentacion (aqui es donde salen todas las dudas de ambas partes).</p>
 							</div>
 							<div class="media-right">
 								<i class="fa fa-desktop"></i>
@@ -48,8 +48,8 @@
 								<i class="fa fa-leaf"></i>
 							</div>
 							<div class="media-body">
-								<h4 class="media-heading">Service 5</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+								<h4 class="media-heading">Uso de plantillas</h4>
+								<p>Se usan plantillas de Boostrap para la creacion rapida del diseño de la pagina web, son 100% customusables al antojo del cliente, colores, letras etc.</p>
 							</div>
 						</div>
 						<div class="media">
@@ -67,9 +67,7 @@
 							</div>
 							<div class="media-body">
 								<h4 class="media-heading">Trabajo Garantizado</h4>
-								<p>Todos los trabajos realizados son garantizados, y entregados a tiempo.</p>
-								<br>
-								<br>
+								<p>Todos los trabajos realizados son garantizados, y entregados a tiempo, sujetos a modificaciones en base a los cambios que surgan sobre el desarrollo.</p>
 							</div>
 						</div>
 						<div class="media">
@@ -77,8 +75,8 @@
 								<i class="fa fa-codepen"></i>
 							</div>
 							<div class="media-body">
-								<h4 class="media-heading">Service 8</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure aperiam consequatur quo quis exercitationem reprehenderit dolor vel ducimus, voluptate eaque suscipit iste placeat.</p>
+								<h4 class="media-heading">Mantenimiento</h4>
+								<p>Si este lo requiere, el cliente puede decidir cuando quiera, agregarle o quitarle alguna funcionalidad a su citio con un costo extra.</p>
 							</div>
 						</div>
 					</div>
