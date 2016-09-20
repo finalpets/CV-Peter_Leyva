@@ -6,8 +6,8 @@
 					<div class="col-sm-6">
 						<div class="media">
 							<div class="media-body text-right">
-								<h4 class="media-heading">Instalacion de Servidor</h4>
-								<p>Instalacion y configuracion del servidor VPS (Virtual Private Server) donde se alojara la pagina, los costos del servidor y compra de dominio van por parte del cliente.</p>
+								<h4 class="media-heading">Instalación de Servidor</h4>
+								<p>Instalación y configuración del servidor VPS (Virtual Private Server) donde se alojará la página, los costos del servidor y compra de dominio van por parte del cliente.</p>
 							</div>
 							<div class="media-right">
 								<i class="fa fa-cog"></i>
@@ -16,7 +16,7 @@
 						<div class="media">
 							<div class="media-body text-right">
 								<h4 class="media-heading">Prueba de errores</h4>
-								<p>Las paginas web son puestas a Test(pruebas) para su correcto funcionamiento, y que el cliente no tenga problemas cuando la pagina este en el servidor.</p>
+								<p>Las páginas web son puestas a pruebas (Test) para su correcto funcionamiento, y que el cliente no tenga problemas cuando la página este en el servidor.</p>
 							</div>
 							<div class="media-right">
 								<i class="fa fa-check"></i>
@@ -25,7 +25,7 @@
 						<div class="media">
 							<div class="media-body text-right">
 								<h4 class="media-heading">Avances</h4>
-								<p>Entrega de avances que seran presentados al cliente durante la creacion de la pagina web, para la retroalimentacion (aqui es donde salen todas las dudas de ambas partes).</p>
+								<p>La entrega de avances serán presentados al cliente durante la creación de la página web (aquí es donde se resuelven dudas y se realizan cambios si así se requiere).</p>
 							</div>
 							<div class="media-right">
 								<i class="fa fa-desktop"></i>
@@ -33,8 +33,8 @@
 						</div>
 						<div class="media">
 							<div class="media-body text-right">
-								<h4 class="media-heading">Comunicacion</h4>
-								<p>Comunicacion constante con el cliente, para llevar una buena retroalimentacion de lo que se pidio y lo que obtiene.</p>
+								<h4 class="media-heading">Comunicación</h4>
+								<p>Comunicación constante con el cliente, para obtener buenos resultados durante el desarrollo del la página web.</p>
 							</div>
 							<div class="media-right">
 								<i class="fa fa-users"></i>
@@ -49,7 +49,7 @@
 							</div>
 							<div class="media-body">
 								<h4 class="media-heading">Uso de plantillas</h4>
-								<p>Se usan plantillas de Boostrap para la creacion rapida del diseño de la pagina web, son 100% customusables al antojo del cliente, colores, letras etc.</p>
+								<p>Se usan plantillas de Boostrap para la creación rápida del diseño de la página web, son 100% modificables al gusto del cliente, tales como colores, letras, imágenes, etc.</p>
 							</div>
 						</div>
 						<div class="media">
@@ -58,7 +58,7 @@
 							</div>
 							<div class="media-body">
 								<h4 class="media-heading">Actualizable</h4>
-								<p>Las paginas web desarrolladas, se les puede agregar nuevas caracteristicas en un futuro, sin alterar el funcionamiento actual del servidor.</p>
+								<p>Las páginas web desarrolladas, se les puede agregar nuevas características en un futuro, sin alterar el funcionamiento actual del servidor.</p>
 							</div>
 						</div>
 						<div class="media">
@@ -67,7 +67,9 @@
 							</div>
 							<div class="media-body">
 								<h4 class="media-heading">Trabajo Garantizado</h4>
-								<p>Todos los trabajos realizados son garantizados, y entregados a tiempo, sujetos a modificaciones en base a los cambios que surgan sobre el desarrollo.</p>
+								<p>Todos los trabajos realizados son garantizados y entregados a tiempo.</p>
+								<br>
+								<br>
 							</div>
 						</div>
 						<div class="media">
@@ -76,7 +78,7 @@
 							</div>
 							<div class="media-body">
 								<h4 class="media-heading">Mantenimiento</h4>
-								<p>Si este lo requiere, el cliente puede decidir cuando quiera, agregarle o quitarle alguna funcionalidad a su citio con un costo extra.</p>
+								<p>Actualización del servidor, o bien si el cliente lo requiere, puede agregar o quitar algunas funciones a su sitio con un costo extra.</p>
 							</div>
 						</div>
 					</div>
