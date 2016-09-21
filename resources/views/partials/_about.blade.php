@@ -3,7 +3,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h1 id="about" class="title text-center">Acerca de <span>Peter Leyva</span></h1>
-						<p class="lead text-center">Egresado de la facultad de ingenieria de la UABC, area terminal Software.</p>
+						<p class="lead text-center">Egresado de la Facultad de Ingeniería de la UABC, área terminal Software.</p>
 						<div class="space"></div>
 						<div class="row">
 							<div class="col-md-6 object-non-visible" data-animation-effect="fadeInLeft">
@@ -19,6 +19,7 @@
 									<li><i class="fa fa-caret-right pr-10 text-colored"></i> PHP</li>
 									<li><i class="fa fa-caret-right pr-10 text-colored"></i> JQuery</li>
 									<li><i class="fa fa-caret-right pr-10 text-colored"></i> Boostrap</li>
+									<li><i class="fa fa-caret-right pr-10 text-colored"></i> Ssas</li>
 									<li><i class="fa fa-caret-right pr-10 text-colored"></i> CSS3</li>
 									<li><i class="fa fa-caret-right pr-10 text-colored"></i> JavaScript</li>
 									<li><i class="fa fa-caret-right pr-10 text-colored"></i> Animacion</li>
@@ -27,12 +28,13 @@
 							</div>
 						</div>
 						<div class="space"></div>
-						<h2>Una Breve Historia</h2>
+						<h2>Historia Laboral</h2>
 						<div class="row">
 							<div class="col-md-6">
-								<p>Empece realizando mis practicas profesionales en la CFE en un sistema hecho en JSP, duro alrrededor de 1 año el cual conclui mi servicio social profesional, una experiencia unica que me sirvio antes de dar el salto al mundo laboral.</p>
-								<p>Actualmente trabajo en Gameloft, desarrollando aplicaciones para videojuegos en android.</p>
-								<p>Soy un muchacho apasionado con lo que hago y muy dedicado, paso casi todo el dia frente a la computadora desarrollando y actualizandome con la tecnologia de punta</p>
+								<p>En el servicio social de primera etapa de la Universidad, trabajé en la base de datos del Hospital General de Mexicali, el cual consistió en actualizar la información y registros de los pacientes, en el lenguaje de programación Java y SQL.</p>
+								<p>Empecé a realizar mis prácticas profesionales en la CFE (Comisión Federal de Electricidad) en base a un sistema de programación WEB, durante un periodo de 1 año, en el cual concluí mi servicio social profesional, una experiencia única que me sirvió para dar el salto al mundo laboral.</p>
+								<p>Actualmente trabajo en la empresa Gameloft, en la cual me desempeño en desarrollar aplicaciones para videojuegos en android.</p>
+								
 							</div>
 							<div class="col-md-6">
 							<h2>Ciclo de vida Pagina Web</h2>
