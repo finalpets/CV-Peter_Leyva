@@ -54,6 +54,7 @@
 			
 		</div>
 	</div>
+</div>
 @section('footer')		
 	<footer id="footer">
 		@include('partials._footer')	

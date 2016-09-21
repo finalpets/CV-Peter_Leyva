@@ -87,8 +87,7 @@
             </div>
           </div>
         </div>
-      </div>
-    </div>
+      </div>    
     <!-- banner end -->
 
     <!-- Init Modal Login -->

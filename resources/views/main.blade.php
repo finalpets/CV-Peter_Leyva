@@ -64,7 +64,7 @@
 @endsection
 
 		<!-- section end -->
-	@endsection
+@endsection
 
 
 
